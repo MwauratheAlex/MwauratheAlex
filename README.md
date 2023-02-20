@@ -6,12 +6,6 @@
 <div style="display: inline_block"><br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
-  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwauratheAlex&layout=compact&theme=tokyonight)](https://github.com/MwauratheAlex/github-readme-stats)
-
 </div>
 <br/>
 
