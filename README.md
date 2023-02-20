@@ -15,6 +15,6 @@
 </div>
 <br/>
 
-| ![CABON-TECH's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=CABON-TECH&show_icons=true&theme=tokyonight) | ![CABON-TECH's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CABON-TECH&theme=tokyonight) |
+| ![Mwaura's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=MwauratheAlex&show_icons=true&theme=tokyonight) | ![Mwaura's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MwauratheAlex&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
