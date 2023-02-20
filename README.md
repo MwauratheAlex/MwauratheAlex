@@ -10,7 +10,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CABON-TECH&layout=compact&theme=tokyonight)](https://github.com/CABON-TECH/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwauratheAlex&layout=compact&theme=tokyonight)](https://github.com/MwauratheAlex/github-readme-stats)
 
 </div>
 <br/>
