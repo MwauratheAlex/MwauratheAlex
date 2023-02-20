@@ -4,7 +4,7 @@
 
 ## About
 
-🔭 Software Engineer student at ALX Africa.<br/>
+🔭 Software Engineering student at ALX Africa.<br/>
 💬 Just finished my undergraduate in Elecctrical and Electronics Engineering.<br/>
 ⚡ Ready to collaborate on cool and intresting stuff.
 
