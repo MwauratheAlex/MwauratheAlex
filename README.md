@@ -9,6 +9,6 @@
 </div>
 <br/>
 
-| ![Mwaura's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwauratheAlex&show_icons=true&theme=radical) | ![Mwaura's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MwauratheAlex&theme=tokyonight) |
+| ![Anurags's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwauratheAlex&show_icons=true&theme=radical) | ![Mwaura's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MwauratheAlex&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
