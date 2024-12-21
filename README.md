@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwauratheAlex&hide=jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/MwauratheAlex/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MwauratheAlex&hide=jupyter%20notebook&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/MwauratheAlex/github-readme-stats) |
 | ------- |
 
 | ![Anurags's GitHub stats](https://github-readme-stats.vercel.app/api?username=MwauratheAlex&show_icons=true&theme=tokyonight) | ![Mwaura's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MwauratheAlex&theme=tokyonight) |
