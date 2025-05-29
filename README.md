@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, My Name is Mwaura Mbugua</h1>
+<h1 align="center">Hi 👋, I'm Mwaura Mbugua</h1>
 
 <br />
 
 ## About
 
 💬 Graduate Electrical and Electronic Engineer.<br/>
-🔭 Software Engineering student at ALX Africa.<br/>
-⚡ Ready to collaborate on cool and intresting stuff.
+🔭 Software Engineering.<br/>
+⚡ Ready to collaborate on cool and interesting stuff.
 
 ## Stats
 
