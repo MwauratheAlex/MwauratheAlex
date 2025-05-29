@@ -5,7 +5,7 @@
 ## About
 
 💬 Graduate Electrical and Electronic Engineer.<br/>
-🔭 Software Engineering.<br/>
+🔭 Software Engineer.<br/>
 ⚡ Ready to collaborate on cool and interesting stuff.
 
 ## Stats
